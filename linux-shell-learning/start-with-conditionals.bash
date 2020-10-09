@@ -1,6 +1,6 @@
 read x
-if ($x == N || $x == n)
-then echo "NO"
-elif ($x == Y || $x ==y)
-then echo "YES"
+if [ $x = "Y" ]||[ $x = "y" ];then
+    echo "YES"
+elif [ $x = "N" ]||[ $x = "n" ];then
+    echo "NO"
 fi
