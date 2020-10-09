@@ -1,6 +1,6 @@
 read x
 read y
-echo $((a + b))
-echo $((a - b))
-echo $((a * b))
-echo $((a / b))
+echo $((x + y))
+echo $((x - y))
+echo $((x * y))
+echo $((x / y))
