@@ -6,3 +6,4 @@ if [[$x == $y && $y == $z]]
 elif [[$x == $y || $y == $z || $x == $z]]
     then echo 'ISOSCELES'
 else echo 'SCALENE'
+fi
