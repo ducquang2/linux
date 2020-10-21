@@ -1,0 +1,1 @@
+cat | tail -c 20 # Take the last 20 characters of text
