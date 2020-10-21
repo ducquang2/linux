@@ -1,0 +1,1 @@
+head -n 22 | tail -n 11 # Take lines from 12th to 22nd
