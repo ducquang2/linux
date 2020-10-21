@@ -1,1 +1,1 @@
-cat | head -n 20
+cat | head -n 20 # take the first 20 lines of the text 

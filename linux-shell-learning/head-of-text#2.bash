@@ -1,1 +1,1 @@
-cat | head -c 20 # take 20 first characters of the text
+cat | head -c 20 # take the first 20 characters of the text
