@@ -1,0 +1,1 @@
+cat | tail -n 20 # Take the last 20 lines from text
