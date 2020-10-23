@@ -1,1 +1,1 @@
-tr -s " "
+tr -s " " # Replace all space (-s) with " "
