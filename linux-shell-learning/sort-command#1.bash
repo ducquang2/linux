@@ -1,1 +1,1 @@
-sort # yeah just "sort" -> it will sort automatically
+sort # yeah just "sort" -> it will sort automatically by the first character
