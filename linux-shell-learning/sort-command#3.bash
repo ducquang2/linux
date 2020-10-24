@@ -1,1 +1,1 @@
-sort -n
+sort -n # sort by numbers
