@@ -1,2 +1,2 @@
-sort -k2 -rn
+sort -t$'\t' -k2 -rn
 # sort by second column and reverse numbers
