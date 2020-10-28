@@ -1,1 +1,1 @@
-sort -n -r
+sort -n -r # sort by numbers anđ reverse it
